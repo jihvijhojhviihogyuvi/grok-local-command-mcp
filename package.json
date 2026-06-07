@@ -1,5 +1,0 @@
-{
-  "name": "grok-local-command-mcp",
-  "version": "0.1.0",
-  "description": "A local MCP server for Grok that can run commands..."
-}
